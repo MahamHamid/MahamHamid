@@ -22,19 +22,22 @@ I'm currently expanding my skills in LLM applications, LangChain, and AI-powered
 - Exploring Financial AI and NLP
 - Looking for Data Analyst / AI / FinTech opportunities
 
-- ## ⭐ Featured Projects
+## 🛠 Tech Stack
 
-📊 Banking Systemic Risk Analysis
-
-💳 Credit Default Risk Prediction
-
-📈 Investment Performance Dashboard
-
-📉 Hybrid Portfolio Optimization
-
-🤖 Financial Sentiment Analysis
-
-🧠 AI LinkedIn Post Generator
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+[R Shiny](https://img.shields.io/badge/R_Shiny-75AADB?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ## 📫 Connect With Me
 
@@ -44,5 +47,3 @@ Email
 
 GitHub
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahamHamid&layout=compact)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
