@@ -42,11 +42,4 @@ I'm currently expanding my skills in LLM applications, LangChain, and AI-powered
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-## 📫 Connect With Me
-
-LinkedIn
-
-Email
-
-GitHub
 
